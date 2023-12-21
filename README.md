@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Gad Nada, I’m currently learning master degree at ZHAW
 <!--
 **gadnad/gadnad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
